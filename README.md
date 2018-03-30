@@ -1,7 +1,7 @@
 # projects
 Hey,
 
-Deze repossitory bevat twee mappen met code/projecten.
+Deze repository bevat twee mappen met code/projecten.
 
 CryptoX is het social medium platform dat ik heb gemaakt in php voor cryptocurrency geïnteresseerden voor het vak database driven webtechnology. Binnen dit project heb ik:
 -	de database ontworpen

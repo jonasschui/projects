@@ -1,0 +1,20 @@
+- Datum/tijd bij reacties
+- User profiel uitbreiden
+	is nu alleen nog username & ww
+
+- User profiel pagina maken
+- Coin profiel pagina maken
+
+- coins kunnen volgen
+- users kunnen bevrienden
+
+- Veiligheid implementeren (dus overal alles van de derde opdracht toepassen op juiste wijze)
+	doen we wel op het laatst
+
+- CSS werkend op alles
+
+- Input vereisten bij
+	= wachtwoord
+	= Thread & reacties (minimaal aantal woorden)
+
+- * eventuele extra's *

@@ -72,18 +72,7 @@ session_start();
 		<div class="container-timeline">
 		<?php
 
-			#Op deze site gebruiken ze de 'LIKE' clause van sql
-			#https://owlcation.com/stem/Simple-search-PHP-MySQL
-
-			#Je moet er denk ik rekening mee houden dat de search zich op verschillende combinaties van input richt:
-			# - username
-			# - firstname
-			# - lastname
-			# - firstname lastname
-			# - currency
-
-			#Al kan je soms op posts van andere users klikken op zo op een userprofiel te komen
-			#De search wordt de enige structurele navigatie-mogelijkheid naar user en currency paginas
+			
 			$search_input = htmlspecialchars($_POST['search-input']);
 			$search_type = htmlspecialchars($_POST['search-type']);
 			echo $search_type;
